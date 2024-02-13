@@ -22,7 +22,7 @@ I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App
 ### 🤷‍♂ What I've Been Up To?
 - 🌱 I exercised some data analysis muscles by taking on a Case Study (courtesy of Coursera) as a capstone project for my Google Data Analytics course. Check it out at [My Case Studies](https://csarevalo.github.io/Case-Studies/). FYI, it's an in-depth review of my data analysis process so consider just checking out the summary or tableau dashboard if you are short on time. Short Overview: I deep dive into how cyclists behavior in a bikeshare program can differ and develop business decisions to convert customers into members, racking in more profit.
 - 💞️ I’m currently working on building a web portfolio to showcase my projects well, ... I'll post the link here when I'm done
-- 📫 How to reach me? You can reach me through my email (csarevalo1@gmail.com) and through my mobile number (+1-323-215-9581).
+- 📫 How to reach me? You can reach me through my email (csarevalo@duck.com).
 
 
 
