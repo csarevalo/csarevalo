@@ -16,7 +16,10 @@ I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App
 ### 🛠️ Tools
 
 - Database: Google BigQuery
-- Programing Languages: Proficient in Python, Dart, and SQL. Proficiency in C, MATLAB, and R.
+- Programing Languages:
+  - Proficient in Python, Dart, and SQL.
+  - Proficiency in C, MATLAB, and R.
+  - Familiar with HTML, Javascript, and CSS.
 - Business Intelligence: Tableau
 - Additinal: MS Office Suite and Google Suite.
 
