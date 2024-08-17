@@ -1,12 +1,22 @@
 ## 🙋🏻‍♂️ Introducing Myself 
 
-Hi all 👋, I'm Cris, I'm an aspiring Electrical Engineer who is passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a data enthusiast with a strong focus in machine learning and data analysis. I have a B.S. in Electrical Engineering. 
+Hi all 👋, I'm Cris, a Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a data enthusiast with a strong focus in machine learning and data analysis. 
 
+<!---
 Currently, I'm open to entry-level opportunities in roles such as Electrical Engineer, Software Engineer, and Data Analyst.
+--->
+
+### 🤷‍♂ What I'm Up To?
+- 🌱 I am currently employed at Q-Tech Coporation, the world's leading manufacturer of high reliability crystal oscillators.
+- 💞️ I am actively working on building a snazzy todo app.
+- 📫 How to reach me? You can reach me through my email (csarevalo@duck.com).
+
 
 ### 📚 Projects
 
-Welcome to my coding portfolio, where I showcase my projects that involve programming in some way. They're my repositories...
+Welcome to my coding portfolio, where I showcase my projects that involve programming in some way. 
+
+I am super excite to developing a [Snazzy Todo List](https://csarevalo.github.io/snazzy-todo-list/). I am passionate about managing my time well and wish to make an available a crossplatform todo app with all the core features of a class todo app. Estimated launch date: Dec 31st, 2024.
 
 I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App-Simple-Calculator/), it was harder to make than it seems. Hope you check it out.
 
@@ -18,17 +28,17 @@ I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App
 - Database: Google BigQuery
 - Programing Languages:
   - Proficient in Python, Dart, and SQL.
-  - Proficiency in C, MATLAB, and R.
+  - Proficiency in MATLAB, C, and R.
   - Familiar with HTML, Javascript, and CSS.
 - Business Intelligence: Tableau
 - Additinal: MS Office Suite and Google Suite.
 
 
-### 🤷‍♂ What I'm Up To?
+
+<!---
 - 🌱 I am actively applying to jobs in Electrical Engineering Field.
 - 💞️ I’m also currently working on building a web portfolio to showcase my projects well, ... I'll post the link here when I'm done
-- 📫 How to reach me? You can reach me through my email (csarevalo@duck.com).
-
+--->
 
 
 <!--
