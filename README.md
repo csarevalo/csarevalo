@@ -20,7 +20,7 @@ I am super excite to developing a [Snazzy Todo List](https://csarevalo.github.io
 
 I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App-Simple-Calculator/), it was harder to make than it seems. Hope you check it out.
 
-[My Case Studies](https://csarevalo.github.io/Case-Studies/) are also available here, check it out. I flex my data analysis muscles and deep dive into business problems and data driven decisions.
+[My Case Studies](https://csarevalo.github.io/Case-Studies/) are also available here, check it out. I flex my data analysis muscles and deep dive into business problems and data driven decisions. Here is [a quick tableau story](https://csarevalo.github.io/cyclistic-data-analysis/) extracted from thousands of bike trips.
 
 
 ### 🛠️ Tools
