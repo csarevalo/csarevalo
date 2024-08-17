@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ Introducing Myself 
 
-Hi all 👋, I'm Cris, a Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a developer and data enthusiast with a strong focus in machine learning and data analysis, currently aiming to develop, then launch my first app. 
+Hi all 👋, I'm Cris, a Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a developer and data enthusiast with a strong focus in machine learning and data analysis. My current goal: develop an amazing todo, then launch it across various platforms. 
 
 <!---
 Currently, I'm open to entry-level opportunities in roles such as Electrical Engineer, Software Engineer, and Data Analyst.
