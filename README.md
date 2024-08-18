@@ -1,14 +1,15 @@
 ## 🙋🏻‍♂️ Introducing Myself 
 
-Hi all 👋, I'm Cris, a Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a developer and data enthusiast with a strong focus in machine learning and data analysis. My current goal: develop an amazing todo app, then launch it across various platforms. 
-
+Hi all 👋, I'm Cris, an Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a developer and data enthusiast with a strong focus in machine learning and data analysis. My current goal: develop an amazing todo app, then launch it across various platforms. 
+ 
 <!---
+Fascinated by the workings of habit and the mind. A dedicated listener of audiobooks exploring these topics.
 Currently, I'm open to entry-level opportunities in roles such as Electrical Engineer, Software Engineer, and Data Analyst.
 --->
 
 ### 🤷‍♂ What I'm Up To?
 - 🌱 I am currently employed at Q-Tech Coporation, the world's leading manufacturer of high reliability crystal oscillators.
-- 💞️ I am actively working on building a snazzy todo app.
+- 💞️ I am actively working on building an amazing and snazzy todo app to launch across various platforms.
 - 📫 How to reach me? You can reach me through my email (csarevalo@duck.com).
 
 
