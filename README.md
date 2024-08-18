@@ -1,6 +1,10 @@
 ## 🙋🏻‍♂️ Introducing Myself 
 
-Hi all 👋, I'm Cris, an Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals. I am also a developer and data enthusiast with a strong focus in machine learning and data analysis. My current goal: develop an amazing todo app, then launch it across various platforms. 
+Hi all 👋, I'm Cris!
+- I am an Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals.
+- I am driven and fascinated by the workings of habit and the mind; and a dedicated listener of audiobooks exploring these topics.
+- I am also a developer and data enthusiast with a strong focus in machine learning and data analysis.
+- My current goal: to develop an amazing todo app, then launch it across various platforms. 
  
 <!---
 Fascinated by the workings of habit and the mind. A dedicated listener of audiobooks exploring these topics.
@@ -17,7 +21,7 @@ Currently, I'm open to entry-level opportunities in roles such as Electrical Eng
 
 Welcome to my coding portfolio, where I showcase my projects that involve programming in some way. 
 
-I am super excite to developing a [Snazzy Todo List](https://csarevalo.github.io/snazzy-todo-list/). I am passionate about managing my time well and wish to make an available a crossplatform todo app with all the core features of a class todo app. Estimated launch date: Dec 31st, 2024.
+I am super excite to be developing a [Snazzy Todo List](https://csarevalo.github.io/snazzy-todo-list/). I am passionate about managing my time well and wish to make an available a crossplatform todo app with all the core features of a class todo app. Estimated launch date: Dec 31st, 2024.
 
 I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App-Simple-Calculator/), it was harder to make than it seems. Hope you check it out.
 
