@@ -2,7 +2,7 @@
 
 Hi all 👋, I'm Cris!
 - I am an Electrical Engineer, passionate about solving meaningful problems and eager to contribute to a team of excelling individuals.
-- I am driven and fascinated by the workings of habit and the mind; and a dedicated listener of audiobooks exploring these topics.
+- I am driven and fascinated by the workings of habit and the mind; and a dedicated listener & reader of books exploring these topics.
 - I am also a developer and data enthusiast with a strong focus in machine learning and data analysis.
 - My current goal: to develop an amazing todo app, then launch it across various platforms. 
  
