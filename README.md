@@ -19,11 +19,9 @@ Currently, I'm open to entry-level opportunities in roles such as Electrical Eng
 
 ### 📚 Projects
 
-Welcome to my coding portfolio, where I showcase my projects that involve programming in some way. 
+Welcome to my coding portfolio, 
 
-I am super excite to be developing a [Snazzy Todo List](https://csarevalo.github.io/snazzy-todo-list/). I am passionate about managing my time well and wish to make an available a crossplatform todo app with all the core features of a class todo app. Estimated launch date: Dec 31st, 2024.
-
-I specially liked my [Simple Calculator](https://csarevalo.github.io/Flutter-App-Simple-Calculator/), it was harder to make than it seems. Hope you check it out.
+I am super excite to be developing a [Snazzy Todo List](https://csarevalo.github.io/snazzy-todo-list/). I am passionate about managing my time well and wish to make a readily available crossplatform todo app with all the core features of a classic todo app. 
 
 [My Case Studies](https://csarevalo.github.io/Case-Studies/) are also available here, check it out. I flex my data analysis muscles and deep dive into business problems and data driven decisions. Here is [a quick tableau story](https://csarevalo.github.io/cyclistic-data-analysis/) extracted from thousands of bike trips.
 
